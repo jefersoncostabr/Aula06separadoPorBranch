@@ -18,3 +18,5 @@ pc min 1366px
 /*     PC     */
 @media (min-width: 1025px) {
 }
+
+/*    Organização das linhas do index body    */
