@@ -16,7 +16,8 @@
 }
 
 .wraperElementosSuperiores{
-    padding: 30px;
+    padding: 26px;
+    margin:0;
 }
 
 #h1Sec1 {
@@ -34,6 +35,7 @@
 
 /*    Tablet    */
 @media (min-width: 361px) and (max-width: 768px) {
+
 }
 
 /*     notebook     */
